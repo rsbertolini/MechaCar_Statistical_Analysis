@@ -11,4 +11,4 @@ The slope of the line should not be zero.  The p-value is very small and lower t
 Yes, the R-squared value is .71 which indicates over 70% of predictions will be correct.
 
 
-[multi linear summary](Images/Summary1.PNG)
+[multi linear summary](Summary1.PNG)
