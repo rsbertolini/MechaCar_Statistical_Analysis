@@ -10,4 +10,4 @@ The slope of the line should not be zero.  The p-value is very small and lower t
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 Yes, the R-squared value is .71 which indicates over 70% of predictions will be correct.
 
-[Multi Linear Regression Summary](\Images\Summary1.PNG")
+[Multi Linear Regression Summary](Images/Summary1.PNG)
